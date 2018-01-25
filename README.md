@@ -3,7 +3,7 @@ plan of 2018
 ------------------
 # java学习
 
-## 回顾-所学内容课程 *关键*
+## 回顾-所学内容课程 **关键**
 
 -------------
 ## android-photo
@@ -18,7 +18,7 @@ plan of 2018
 
 ## python 学习
 
-## shell script 学习shell脚本
+## shell script 学习shell脚本  **关键**
 
 ## openstack
 
